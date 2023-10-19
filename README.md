@@ -9,5 +9,5 @@ URL: [https://www.moneycontrol.com/india/stockpricequote/aluminium/nationalalumi
 * DayRange- High Price
 * Date time
 * Append Data in CSV File
-* Function to alert subscriber to buy stock when the price is lower through Email
-* To check every 5 sec and 6 hrs Once 
+* Function to alert subscriber to buy stock when the price is lower through Email.
+* To check the price every 5 sec and 6 hrs Once 
